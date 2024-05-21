@@ -1,0 +1,7 @@
+arb-dir: lib/110n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+
+arb-files:
+  - app_en.arb
+  - app_bn.arb

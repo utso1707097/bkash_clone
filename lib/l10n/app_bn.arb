@@ -1,0 +1,11 @@
+{
+  "@@locale": "bn",
+  "description": "The current Language",
+  "login": "লগ ইন",
+  "to_your_bkash_account": "আপনার bKash অ্যাকাউন্টে",
+  "account_number": "অ্যাকাউন্ট নাম্বার",
+  "forgot_pin_try_pin_reset": "পিন ভুলে গেছেন? পিন রিসেট করুন",
+  "bkash_pin": "bKash পিন",
+  "enter_bkash_pin": "bKash পিন দিন",
+  "next": "পরবর্তী"
+}

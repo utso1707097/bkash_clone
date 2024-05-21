@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "login": "Log In",
+  "to_your_bkash_account": "to your bKash account",
+  "account_number": "Account Number",
+  "forgot_pin_try_pin_reset": "Forgot PIN? Try PIN Reset",
+  "bkash_pin": "bKash PIN",
+  "enter_bkash_pin": "Enter bKash PIN",
+  "next": "Next"
+}
