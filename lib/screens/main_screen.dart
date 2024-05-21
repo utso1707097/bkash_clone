@@ -1,3 +1,4 @@
+import 'package:bkash_clone/core/const.dart';
 import 'package:flutter/material.dart';
 
 class MainScreen extends StatefulWidget {
@@ -10,6 +11,11 @@ class MainScreen extends StatefulWidget {
 class _MainScreenState extends State<MainScreen> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold();
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: AppConstants.defaultThemeColor,
+        automaticallyImplyLeading:false,
+      ),
+    );
   }
 }
